@@ -1,0 +1,5 @@
+Ex1.1:
+O construtor está privado e não pode ser chamado fora da classe.
+
+Ex1.2:
+O polimorfismo no construtor da classe está errado. Os dois construtores possuem a mesma assinatura.
