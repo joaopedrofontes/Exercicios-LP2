@@ -1,5 +1,5 @@
 package sistemaDePagamento;
 
 interface Autenticacao {
-	public boolean autenticar();
+	boolean autenticar(double dinheiroNaConta);
 }
