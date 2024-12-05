@@ -44,7 +44,7 @@ public class BuscaBinaria {
     public static int binarySearch(ArrayList<Integer> list, int target) {
         int left = 0;
         int right = list.size() - 1;
-
+        
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
